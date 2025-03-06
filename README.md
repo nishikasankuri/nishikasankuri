@@ -4,7 +4,7 @@
 Welcome to my digital playground—where AI meets creativity, code solves problems, and learning never stops!
 
 🚀 About Me
-I'm an international student from India 🇮🇳, currently pursuing my Master’s in Computer Science in the USA 🇺🇸. Passionate about AI, ML, Web Development, and Cybersecurity, 
+I'm an international student from India, currently pursuing my Master’s in Computer Science in the USA. Passionate about AI, ML, Web Development, and Cybersecurity, 
 I thrive on building impactful projects and exploring cutting-edge tech.
 
 
