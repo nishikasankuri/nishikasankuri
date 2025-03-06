@@ -8,8 +8,7 @@ I'm an international student from India, currently pursuing my Master’s in Com
 I thrive on building impactful projects and exploring cutting-edge tech.
 
 
-
-🛠️ My Tech Arsenal
+🛠️ My Tech Arsenal:
 
 💻 Languages: Python, JavaScript, C++
 
@@ -22,8 +21,7 @@ I thrive on building impactful projects and exploring cutting-edge tech.
 🛠️ Tools & Platforms: GitHub, Docker, Postman
 
 
-
-🌟 Projects That Excite Me
+🌟 Projects That Excite Me:
 
 📌 AI Resume Analyzer – Helping job seekers with AI-powered insights 📝
 
@@ -34,8 +32,7 @@ I thrive on building impactful projects and exploring cutting-edge tech.
 ☁️ Attribute-Based Cloud Storage – Secure and efficient cloud data management
 
 
-
-🏆 Notable Achievements
+🏆 Notable Achievements:
 
 🎖️ Smart India Hackathon 2020 – Semi-finalist
 
@@ -44,8 +41,7 @@ I thrive on building impactful projects and exploring cutting-edge tech.
 🧪 District-Level Science Fair – One of two students selected from my school
 
 
-
-🎯 Beyond the Code
+🎯 Beyond the Code:
 
 When I’m not busy debugging, you’ll find me:
 
@@ -54,7 +50,6 @@ When I’m not busy debugging, you’ll find me:
 📢 Exploring AI's impact on branding & marketing
 
 💡 Building cool side projects & brainstorming startup ideas
-
 
 
 📬 Let’s Connect!
