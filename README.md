@@ -1,6 +1,7 @@
 Hey, I'm NISHIKA! 
 
 AI Enthusiast | 🎓 CS Master's Student |  Innovator
+
 Welcome to my digital playground—where AI meets creativity, code solves problems, and learning never stops!
 ![about](https://github.com/user-attachments/assets/3fb8531f-c057-48a2-9a3e-617bbdb0fea5)
 
